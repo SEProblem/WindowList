@@ -1,0 +1,31 @@
+// this is a comment, must be on it's own line, '~' means don't tokenize
+~Cheat Engine
+Allinea DDT
+AQtime
+Byebug
+EZTEST
+CodeView
+DBG
+dbx
+Dragonfly
+XPEDITER
+FusionDebug
+FusionReactor
+Parasoft Insure++
+Disassembler 
+!IDA
+Jinx
+JSwat
+LLDB
+Memcheck
+Valgrind
+OllyDbg
+SIMMON
+SoftICE
+SEGGER
+WinDbg
+Xdebug
+x64dbg
+DDD
+GDB
+GHIDRA
